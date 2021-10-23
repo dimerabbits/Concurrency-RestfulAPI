@@ -12,5 +12,5 @@
     </a>
 </p>
 <p align="center">
-  Calling Typicodes REST api: photos JSON using pure SwiftUI and new Concurrency features
+  Calling Typicodes REST API: photos JSON using pure SwiftUI and new Concurrency features
 </p>
