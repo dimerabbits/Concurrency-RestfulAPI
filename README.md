@@ -1,2 +1,2 @@
-# Concurrency | REST Api
+# Concurrency  |  REST Api
 REST Api, calling Typicodes photos JSON using pure SwiftUI
