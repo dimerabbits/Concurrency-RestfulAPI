@@ -1,5 +1,5 @@
 <h1 align="center">
-  Concurrency  |  REST Api
+  Concurrency  |  REST API
 </h1>
 </p>
 <p align="center">
